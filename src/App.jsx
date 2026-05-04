@@ -32,9 +32,10 @@ const projects = [
     demo: "https://public.tableau.com/app/profile/aditya.ranjan7154/viz/Uber-Analysis-Dashboard/Univariateanalysis",
   },
   {
-    title: "WhatsApp AI Store Analytics Assistant",
-    desc: "AI assistant that helps store owners ask questions about revenue, sales, stock, and daily performance via WhatsApp.",
-    tech: "AI / n8n",
+    title: "SectionB_G12_Employee_Attrition",
+    desc: "Full-featured e-commerce store with product management, payment integration, order tracking, and a complete admin dashboard.",
+    tech: "Python / Data Science",
+    demo: "https://github.com/kvianAR/SectionB_G12_Employee_Attrition",
   },
   {
     title: "E-commerce Website with Admin Panel",
