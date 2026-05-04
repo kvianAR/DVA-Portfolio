@@ -16,9 +16,10 @@ const projects = [
     // demo: '#',
   },
   {
-    title: 'WhatsApp AI Assistant for Store Analytics',
-    desc: 'AI-powered WhatsApp bot that delivers store metrics, sales insights, and actionable analytics directly via chat — natural language queries supported.',
-    stack: ['Node.js', 'OpenAI API', 'WhatsApp API', 'Prisma'],
+    title: 'SectionB_G12_Employee_Attrition',
+    desc: 'Full-featured e-commerce store with product management, payment integration, order tracking, and a complete admin dashboard.',
+    stack: ['Python', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly', 'Jupyter Notebook', 'Scikit-Learn'],
+    demo: 'https://github.com/kvianAR/SectionB_G12_Employee_Attrition',
   },
   {
     title: 'Salon Marketing Website / Portfolio',
